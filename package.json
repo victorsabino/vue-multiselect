@@ -1,6 +1,6 @@
 {
   "name": "vue-multiselect-fork",
-  "version": "2.1.8",
+  "version": "2.1.10",
   "private": false,
   "types": "index.d.ts",
   "scripts": {
